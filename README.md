@@ -1,4 +1,4 @@
-## Obscuria Collection Home
+## Obscuria Collection
 This place stores mods online data.
 
-<a href="https://discord.gg/jSHHJSUWdY"><img src="animations.svg"></a>
+<a href="https://discord.gg/jSHHJSUWdY"><img src="animation.svg"></a>
