@@ -1,3 +1,4 @@
 obscure_api
 aquamirae
 loot_journal
+redstone_wires
