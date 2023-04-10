@@ -1,1 +1,5 @@
-
+{
+  "link": "https://www.curseforge.com/minecraft/mc-mods/obscure_api",
+  "name": "Redstone Wires",
+  "description": "A useful addition to redstone, allowing you to transmit a signal over long distances using non-physical wires."
+}
