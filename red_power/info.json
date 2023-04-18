@@ -1,5 +1,12 @@
 {
   "link": "https://www.curseforge.com/minecraft/mc-mods/red_power",
   "name": "Red Power",
-  "description": "A useful addition to redstone, allowing you to transmit a signal over long distances using non-physical wires."
+  "description": "A useful addition to redstone, allowing you to transmit a signal over long distances using non-physical wires.",
+  "addons": [
+    "red_power_test": {
+      "link": "https://www.curseforge.com/minecraft/mc-mods/red_power_test",
+      "name": "Red Power: Test",
+      "description": "Test test test test test test test test test."
+    }
+  ]
 }
