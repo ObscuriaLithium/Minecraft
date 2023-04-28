@@ -1,6 +1,7 @@
 {
   "licenses": {
     "obscure_manhunt": true,
-    "obscure_manhunt_addition_1": true
+    "obscure_manhunt_addition_1": true,
+    "dev_twist_items": false
   }
 }
