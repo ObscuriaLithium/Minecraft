@@ -1,6 +1,10 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/obscure-api",
   "promos": {
+    "1.20.1-latest": "15",
+    "1.20.1-recommended": "15",
+    "1.19.4-latest": "15",
+    "1.19.4-recommended": "15",
     "1.19.3-latest": "10",
     "1.19.3-recommended": "10",
     "1.19.2-latest": "15",
